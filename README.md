@@ -1,10 +1,10 @@
 ### Hi, I'm Mary. 👋
-I'm a curious, creative, aspiring programmer.
+<!--I'm a curious, creative, aspiring programmer.-->
 
 ### About Me:
 - 📚 Currently a student, studying computer science
 - 👀 Interested in artificial intelligence & robotics
-- 💻 Previously worked with **Swift**, **Python**, and **Java**
+<!--- 💻 Previously worked with **Swift**, **Python**, and **Java**-->
 - 🌱 Learning **C++**
 
 <details closed>
