@@ -4,7 +4,8 @@
 ### About Me:
 - 📚 Currently a student, studying computer science
 - 👀 Interested in artificial intelligence & robotics
-<!--- 💻 Previously worked with **Swift**, **Python**, and **Java**-->- 🌱 Learning **C++**
+- 🌱 Learning **C++**
+<!--- 💻 Previously worked with **Swift**, **Python**, and **Java**-->
 
 <details closed>
 <summary> :octocat: <b>My GitHub Stats</b> </summary>
