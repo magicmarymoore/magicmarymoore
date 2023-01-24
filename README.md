@@ -1,5 +1,5 @@
 ### Hi, I'm Mary. 👋
-<!--I'm a curious, creative, aspiring programmer.-->
+I'm a curious, creative, aspiring programmer.
 
 ### About Me:
 - 📚 Currently a student, studying computer science
@@ -24,7 +24,7 @@
       src="https://github-readme-stats.vercel.app/api?username=magicmarymoore&count_private=true" 
       alt="account stats"
       /> 
-  <p align="center">(excluding private repositories)</p>  
+  <!--<p align="center">(excluding private repositories)</p>  -->
    </td>
     <td>
    <img 
